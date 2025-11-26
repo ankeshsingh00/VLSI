@@ -1,9 +1,6 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date: 25.08.2021 21:32:57
+
 // Design Name: 
 // Module Name: FA_if
 // Project Name: 
