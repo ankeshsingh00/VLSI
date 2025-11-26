@@ -1,9 +1,6 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date: 18.09.2021 13:58:23
+
 // Design Name: 
 // Module Name: MUX_2x1_gate
 // Project Name: 
