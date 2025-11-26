@@ -1,9 +1,6 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date: 18.09.2021 14:22:28
+
 // Design Name: 
 // Module Name: MUX4x1
 // Project Name: 
