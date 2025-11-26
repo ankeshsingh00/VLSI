@@ -1,9 +1,6 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date: 19.08.2021 17:26:13
+
 // Design Name: 
 // Module Name: FA_using_HA
 // Project Name: 
