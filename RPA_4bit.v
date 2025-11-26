@@ -1,9 +1,6 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
-// 
-// Create Date: 27.08.2021 22:56:29
 // Design Name: 
 // Module Name: RPA_4bit
 // Project Name: 
