@@ -1,9 +1,6 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date: 18.09.2021 13:57:39
+
 // Design Name: 
 // Module Name: MUX2x1_data
 // Project Name: 
